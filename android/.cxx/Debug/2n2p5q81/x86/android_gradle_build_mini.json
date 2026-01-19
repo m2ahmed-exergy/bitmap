@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/bitmap/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/innovation/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/bitmap/android/.cxx/Debug/2n2p5q81/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/innovation/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/bitmap/android/.cxx/Debug/2n2p5q81/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bitmap::@6890427a1f51a3e7e1df": {
+      "artifactName": "bitmap",
+      "abi": "x86",
+      "output": "/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/build/bitmap/intermediates/cxx/Debug/2n2p5q81/obj/x86/libbitmap.so",
+      "runtimeFiles": []
+    }
+  }
+}

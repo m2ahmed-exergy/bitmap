@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/bitmap/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/innovation/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/bitmap/android/.cxx/Debug/2n2p5q81/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/innovation/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/bitmap/android/.cxx/Debug/2n2p5q81/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "bitmap::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "bitmap",
+      "output": "/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/build/bitmap/intermediates/cxx/Debug/2n2p5q81/obj/arm64-v8a/libbitmap.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/innovation/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/innovation/Library/Android/sdk/ndk/27.0.12077973/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

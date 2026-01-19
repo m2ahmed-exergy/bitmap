@@ -1,0 +1,3 @@
+/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/bitmap/android/.cxx/Debug/2n2p5q81/x86/CMakeFiles/bitmap.dir
+/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/bitmap/android/.cxx/Debug/2n2p5q81/x86/CMakeFiles/edit_cache.dir
+/Users/innovation/Work/Exergy/Projects/ColorKahar/Development/CK-Flutter/bitmap/android/.cxx/Debug/2n2p5q81/x86/CMakeFiles/rebuild_cache.dir
